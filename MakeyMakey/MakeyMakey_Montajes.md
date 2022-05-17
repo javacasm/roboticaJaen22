@@ -21,7 +21,7 @@
 
 [Piano pintado](https://www.instructables.com/id/Graphite-Piano-Keyboard-with-MaKey-MaKey-and-Scrat/)
 
-![imag](https://cdn.instructables.com/F70/3UKZ/I6NI55CA/F703UKZI6NI55CA.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds)
+![imag](../imagenes/PianoPintado.jpg)
 
 [Salta-salta](https://makeymakey.com/blogs/how-to-instructions/makey-makey-run-and-jump-game-pad)
 
