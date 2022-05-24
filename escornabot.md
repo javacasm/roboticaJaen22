@@ -1,11 +1,3 @@
-#  PROYECTOS TIC INTERNIVELARES 2018/19 ([191811GE050](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191811GE050/))
-
-## CEP de Granada
-
-## José Antonio Vacas  @javacasm
-
-![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
-
 # [Escornabot](https://escornabot.com/web/es)
 
 [Documentacion](https://bricolabs.cc/wiki/proyectos/escornabot)
@@ -42,3 +34,22 @@ Para montar un  laberinto
 
 [Instrucciones versión 2](https://docs.google.com/presentation/d/1wiLGgJkgVf4k_q3OCkZja2lMNZ-3-n-bs_xkO_ioCBY/edit#slide=id.ge69b0fc81_0_413)
 [Tutorial de montaje de la v2](http://escornabot.org/wiki/index.php/Gu%C3%ADa_de_montaje_(Brivoi))
+
+## Tapetes
+
+
+[Colección de tapetes](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2UIHUY5yT-1Nx49usL2jkSh80sVlJf4mEJuLSGS1DpGWDXXeIRRlq4jXfyY2lRx0c9nIlLeEx4npQ/pubhtml)
+
+[Tapetes y recursos](https://pablorubma.cc/escornabot/tableros-y-recursos/)
+
+[Actividades](https://olmedarein7.wixsite.com/roboticainfantil/actividades)
+
+
+[Actividades en parejas](http://apprendiendoconrobotica.blogspot.com/2015/04/parejas-con-bee-bot.html?m=1)
+
+[Actividades](https://olmedarein7.wixsite.com/roboticainfantil/actividades)
+
+[Tapete transparente](https://infanity.es/producto/tapiz-recuadros-transparentes-para-beebot/)
+
+[Simulador](http://www.bernatllopis.es/2021/03/simulador.html)
+

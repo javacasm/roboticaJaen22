@@ -1,22 +1,4 @@
-# ROBÓTICA EN EL AULA CON MICRO:BIT ([201814GE047](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/201814GE047/))
-
-## CEP de Baza
-
-### Marzo de 2020
-
-## José Antonio Vacas @javacasm
-
-![Licencia CC](./images/Licencia_CC.png)
-
-
-|Fecha|Horario|
-|---|---|
-|03/03/2020|16:30-19:30
-|10/03/2020|16:30-19:30
-|16/06/2020|16:30-18:30
-|17/06/2020|16:30-18:30
-
-## http://bit.ly/mbitBaza
+# ROBÓTICA EN EL AULA CON MICRO:BIT
 
 Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para incorporarlas al aula: la programación y la robótica. Podrá conocer diferentes tipos de robot y trabajar con la placa micro:bit dentro del aula, además de familiarizarse con un primer lenguaje de programación de fácil uso a través de bloques gráficos.
 
